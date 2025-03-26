@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
-[📄 View my CV](https://github.com/Gsimlop/Gsimlop/CV_Gabriel.pdf)
+[📄 View my CV](https://github.com/Gsimlop/Gsimlop/blob/main/CV_%20Gabriel.pdf)
 
 ###
 
