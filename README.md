@@ -59,6 +59,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gsimlop/Gsimlop/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gsimlop/Gsimlop/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gsimlop/Gsimlop/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### 🙏 Thank you for visiting my profile!  
 I'm always excited to connect with professionals and organizations looking for a passionate data scientist with expertise in Big Data, Cloud Computing, and Data Analytics. If you're looking for someone to contribute to your team's success, I would love to discuss how I can bring value to your projects. Feel free to reach out for collaboration or job opportunities.
 
