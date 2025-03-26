@@ -1,18 +1,34 @@
 <h2 align="center">Hi 👋! I'm Gabriel</h2>
 
 ---
-
+### About Me
 <p align="left">Graduated in Physics, currently pursuing a Master's in Big Data Analytics at UPV, which allows me to continuously learn and expand my knowledge in the field.<br><br>I have experience in theoretical foundations and practical skills in programming and laboratory work, with a strong motivation to acquire new knowledge and skills related to positions such as Data Analyst, Cloud Computing, and Data Scientist.</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gsimlop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gsimlop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+[![📄 View my CV](https://img.shields.io/badge/-Download_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Gsimlop/Gsimlop/blob/main/CV_%20Gabriel.pdf)
+
+---
+
+<div align="left">
+  <a href="mailto:gsimlop7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-simón-lópez-a0493b14b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ---
 
+### 🚀 Featured Projects  
+- [SQL](https://github.com/Gsimlop/SQL)  
+- [TFG](https://github.com/Gsimlop/PROPIEDADES-OPTICAS-Y-MAGNETICAS-DEL-CrSBr-)  
+- [Python](https://github.com/Gsimlop/PROGRAMAS-REALIZADOS-EN-PYTHON) 
+
+---
+
+### 🛠 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -37,17 +53,9 @@
 
 ---
 
-[📄 View my CV](https://github.com/Gsimlop/Gsimlop/blob/main/CV_%20Gabriel.pdf)
-
----
-
-<div align="left">
-  <a href="mailto:gsimlop7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-simón-lópez-a0493b14b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gsimlop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gsimlop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+
