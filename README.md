@@ -36,7 +36,7 @@
 </div>
 ###
 
-<embed src="CV_Gabriel.pdf" type="application/pdf" width="100%" height="600px" />
+[📄 Download my CV](CV_Gabriel.pdf)
 
 ###
 
