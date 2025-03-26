@@ -6,16 +6,15 @@
 
 ---
 
-[![📄 View my CV](https://img.shields.io/badge/-Download_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Gsimlop/Gsimlop/blob/main/CV_%20Gabriel.pdf)
-
----
-
 <div align="left">
   <a href="mailto:gsimlop7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-simón-lópez-a0493b14b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Gsimlop/Gsimlop/blob/main/CV_Gabriel.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=View%20CV&logo=adobeacrobatreader&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="View CV" />
   </a>
 </div>
 
@@ -57,5 +56,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gsimlop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gsimlop&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+---
+
+### 🙏 Thank you for visiting my profile!  
+I'm always excited to connect with professionals and organizations looking for a passionate data scientist with expertise in Big Data, Cloud Computing, and Data Analytics. If you're looking for someone to contribute to your team's success, I would love to discuss how I can bring value to your projects. Feel free to reach out for collaboration or job opportunities.
+
+### 💬 Motivational Quote
+> "Never too high, never too low." – **Ricky Rubio**
 
 
