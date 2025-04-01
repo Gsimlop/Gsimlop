@@ -22,9 +22,9 @@
 
 ### 🚀 Featured Projects  
 - [SQL](https://github.com/Gsimlop/SQL)  
-- [TFG](https://github.com/Gsimlop/PROPIEDADES-OPTICAS-Y-MAGNETICAS-DEL-CrSBr-)  
-- [Python](https://github.com/Gsimlop/PROGRAMAS-REALIZADOS-EN-PYTHON)
+- [PYTHON](https://github.com/Gsimlop/PROGRAMAS-REALIZADOS-EN-PYTHON)
 - [POWER BI](https://github.com/Gsimlop/POWER-BI)
+- [TFG](https://github.com/Gsimlop/PROPIEDADES-OPTICAS-Y-MAGNETICAS-DEL-CrSBr-)  
 
 ---
 
