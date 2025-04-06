@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm Gabriel</h2>
-
+![Profile views](https://komarev.com/ghpvc/?username=Gsimlop&color=blue&style=flat)
 ---
 ### About Me
 <p align="left">I have a Bachelor’s degree in Physics, currently pursuing a Master's in Big Data Analytics at UPV, which allows me to continuously learn and expand my knowledge in the field.<br><br>I have experience in theoretical foundations and practical skills in programming and laboratory work, with a strong motivation to acquire new knowledge and skills related to positions such as Data Analyst, Cloud Computing, and Data Scientist.</p>
