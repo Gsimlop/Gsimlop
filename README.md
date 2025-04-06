@@ -21,7 +21,8 @@
 ---
 
 ### 🚀 Featured Projects  
-- [SQL](https://github.com/Gsimlop/SQL)  
+- [SQL](https://github.com/Gsimlop/SQL)
+- [AWS](https://github.com/Gsimlop/AWS)
 - [PYTHON](https://github.com/Gsimlop/PROGRAMAS-REALIZADOS-EN-PYTHON)
 - [POWER BI](https://github.com/Gsimlop/POWER-BI)
 - [TFG](https://github.com/Gsimlop/PROPIEDADES-OPTICAS-Y-MAGNETICAS-DEL-CrSBr-)  
